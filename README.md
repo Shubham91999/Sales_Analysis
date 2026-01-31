@@ -31,10 +31,13 @@ The dashboard includes the following interactive visualizations:
 - **Total Sales by Genre:** A breakdown of market share by game genre (Action, Sports, Shooter, etc.).
 
 ## Key Insights
-*   **Genre Dominance:** Analysis of which genres (e.g., Action, Sports) consistently outperform others in terms of global sales.
-*   **Platform Wars:** Insights into the lifecycle and market share of major consoles (PlayStation, Xbox, Nintendo).
-*   **Publisher Performance:** Identification of key publishers that maintain a monopoly on top-tier sales.
-*   **Historical Trends:** Observation of the "Golden Age" of video game sales and year-over-year growth patterns.
+
+*   **Genre Dominance:** *Action* and *Sports* genres consistently outperform others, accounting for a significant portion of global sales. The "Shooter" genre also shows strong performance in recent years.
+*   **Platform Wars:** The *PS2* stands out as one of the most successful platforms of all time, followed closely by the *X360* and *PS3*. Nintendo's *Wii* and *DS* also capture massive market share.
+*   **Publisher Performance:** *Nintendo* dominates the publisher landscape with the highest number of hit titles, while *Electronic Arts (EA)* and *Activision* maintain strong consistent sales across multi-platform releases.
+*   **Top Titles:** *Wii Sports* remains the highest-selling single title globally, largely driven by its bundle strategy. Other top performers include *Grand Theft Auto V* and *Super Mario Bros.*.
+*   **Historical Trends:** Video game sales saw a massive boom in the late 2000s (peaking around 2008-2009), suggesting a "Golden Age" for physical game sales before the transition to digital distribution.
+*   **Regional Preferences:** North America (NA) and Europe (EU) contribute the majority of global sales volume, often doubling the sales figures seen in Japan (JP) and other regions combined.
 
 ## Tools & Technologies Used
 - **Tableau Public / Desktop:** For creating interactive dashboards and specific visualizations.

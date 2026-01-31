@@ -6,7 +6,7 @@ This project involves a comprehensive analysis of the Video Game Sales dataset, 
 The goal of this dashboard is to assist stakeholders in understanding market dynamics, identifying best-selling titles, and recognizing dominant publishers and platforms.
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](TableauDashboard.png)
 
 ## Tableau Public Link
 [View Interactive Dashboard](https://public.tableau.com/views/Sales_Dashboard_17652520223560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
